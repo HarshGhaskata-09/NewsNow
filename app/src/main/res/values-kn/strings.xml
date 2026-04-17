@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">NewsNow</string>
+    <string name="discover">ಏನು ನಡೆಯುತ್ತಿದೆ ಎಂದು ತಿಳಿಯಿರಿ</string>
+    <string name="search_hint">ಲೇಖನಗಳನ್ನು ಹುಡುಕಿ...</string>
+    
+    <!-- Categories -->
+    <string name="cat_general">ಸಾಮಾನ್ಯ</string>
+    <string name="cat_business">ವ್ಯಾಪಾರ</string>
+    <string name="cat_entertainment">ಮನೋರಂಜನೆ</string>
+    <string name="cat_health">ಆರೋಗ್ಯ</string>
+    <string name="cat_science">ವಿಜ್ಞಾನ</string>
+    <string name="cat_sports">ಕ್ರೀಡೆ</string>
+    <string name="cat_technology">ತಂತ್ರಜ್ಞಾನ</string>
+
+    <!-- Settings -->
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="appearance">ಗೋಚರತೆ</string>
+    <string name="dark_mode">ಡಾರ್ಕ್ ಮೋಡ್</string>
+    <string name="light_mode">ಲೈಟ್ ಮೋಡ್</string>
+    <string name="system_default">ಸಿಸ್ಟಮ್ ಡೀಫಾಲ್ಟ್</string>
+    
+    <string name="language">ಭಾಷೆ</string>
+    <string name="app_language">ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆ</string>
+    
+    <string name="feed">ಫೀಡ್</string>
+    <string name="auto_refresh_label">ಆಟೋ ರಿಫ್ರೆಶ್ (15 ಸೆಕೆಂಡ್)</string>
+    
+    <string name="support">ಬೆಂಬಲ</string>
+    <string name="help_center">ಸಹಾಯ ಕೇಂದ್ರ</string>
+    <string name="contact_us">ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸಿ</string>
+    
+    <string name="made_in_india">ಭಾರತದಲ್ಲಿ ತಯಾರಿಸಲಾಗಿದೆ 🇮🇳</string>
+    <string name="feature_coming_soon">ಈ ಸೌಲಭ್ಯವು ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ!</string>
+
+    <!-- Exit Dialog -->
+    <string name="exit_title">Exit NewsNow?</string>
+    <string name="exit_message">ನೀವು ಖಂಡಿತವಾಗಿಯೂ ಅಪ್ಲಿಕೇಶನ್ ಮುಚ್ಚಲು ಬಯಸುವಿರಾ?</string>
+    <string name="cancel">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="exit">ನಿರ್ಗಮಿಸಿ</string>
+
+    <!-- Permissions -->
+    <string name="notif_permission_msg">ಇತ್ತೀಚಿನ ಸುದ್ದಿಗಳೊಂದಿಗೆ ನವೀಕರಿಸಲು ದಯವಿಟ್ಟು ನೋಟಿಫಿಕೇಶನ್‌ಗೆ ಅನುಮತಿ ನೀಡಿ.</string>
+
+    <!-- Help & Support Additions -->
+    <string name="how_to_use">NewsNow ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು</string>
+    <string name="how_to_desc">1. ಮುಖಪುಟದಲ್ಲಿ ಇತ್ತೀಚಿನ ಸುದ್ದಿಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ\n2. ವಿಷಯಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಲು ವರ್ಗಗಳನ್ನು ಬಳಸಿ\n3. ಸಂಪೂರ್ಣ ವಿವರಗಳನ್ನು ಓದಲು ಯಾವುದೇ ಲೇಖನದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ\n4. ಥೀಮ್ ಮತ್ತು ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಲು ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬಳಸಿ</string>
+    <string name="privacy_policy">ಗೌಪ್ಯತಾ ನೀತಿ (Privacy Policy)</string>
+    <string name="privacy_desc">ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ನಾವು ಗೌರವಿಸುತ್ತೇವೆ. ನಿಮ್ಮ ಹುಡುಕಾಟ ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿಯೇ ಉಳಿಸಲಾಗುತ್ತದೆ. ನಾವು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಯಾರಿಗೂ ಮಾರಾಟ ಮಾಡುವುದಿಲ್ಲ.</string>
+    
+    <string name="company_name">News Tech</string>
+    <string name="company_desc">ಬಳಕೆದಾರರಿಗೆ ವೇಗದ ಮತ್ತು ಸ್ವಚ್ಛ ಸುದ್ದಿ ಅನುಭವವನ್ನು ನೀಡುವುದು.</string>
+    <string name="web_link">www.newstech.in</string>
+    <string name="email_link">support@newstech.in</string>
+    
+    <string name="subject">ವಿಷಯ</string>
+    <string name="feedback_hint">ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಇಲ್ಲಿ ಬರೆಯಿರಿ...</string>
+    <string name="submit">ಸಲ್ಲಿಸು</string>
+    <string name="feedback_success">ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ. ಧನ್ಯವಾದಗಳು!</string>
+    <string name="error_empty_fields">ಸಲ್ಲಿಸುವ ಮೊದಲು ದಯವಿಟ್ಟು ಎಲ್ಲಾ ವಿವರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ.</string>
+</resources>

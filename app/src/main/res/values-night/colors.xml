@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DARK MODE colors (night qualifier) -->
+    <color name="bg_main">#0A0E12</color>
+    <color name="bg_card">#161B22</color>
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="text_muted">#484F58</color>
+    <color name="divider">#21262D</color>
+    <color name="placeholder">#30363D</color>
+</resources>

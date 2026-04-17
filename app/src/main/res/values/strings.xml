@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">NewsNow</string>
+    <string name="discover">Discover what\'s happening</string>
+    <string name="search_hint">Search articles...</string>
+    
+    <!-- Categories -->
+    <string name="cat_general">General</string>
+    <string name="cat_business">Business</string>
+    <string name="cat_entertainment">Entertainment</string>
+    <string name="cat_health">Health</string>
+    <string name="cat_science">Science</string>
+    <string name="cat_sports">Sports</string>
+    <string name="cat_technology">Technology</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="appearance">APPEARANCE</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="system_default">System Default</string>
+    
+    <string name="language">LANGUAGE</string>
+    <string name="app_language">App Language</string>
+    
+    <string name="feed">FEED</string>
+    <string name="auto_refresh_label">Auto Refresh (15 sec)</string>
+    
+    <string name="support">SUPPORT</string>
+    <string name="help_center">Help Center</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="feedback">Send Feedback</string>
+    
+    <string name="made_in_india">Made in India 🇮🇳</string>
+    <string name="feature_coming_soon">Feature coming soon!</string>
+
+    <!-- Exit Dialog -->
+    <string name="exit_title">Exit NewsNow?</string>
+    <string name="exit_message">Are you sure you want to close the app and stop reading?</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+
+    <!-- Permissions -->
+    <string name="notif_permission_msg">Please allow notifications to stay updated with latest news.</string>
+
+    <!-- Help & Support Additions -->
+    <string name="how_to_use">How to use NewsNow</string>
+    <string name="how_to_desc">1. Browse latest news on home screen\n2. Use categories to filter topics\n3. Click any article to read full details\n4. Use settings to change theme and language</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_desc">We value your privacy. Your search data and preferences are stored locally on your device. We do not sell your personal data to third parties.</string>
+    
+    <string name="company_name">News Tech</string>
+    <string name="company_desc">Empowering users with the fastest and cleanest news experience.</string>
+    <string name="web_link">www.newstech.in</string>
+    <string name="email_link">support@newstech.in</string>
+    
+    <string name="subject">Subject</string>
+    <string name="feedback_hint">Write your feedback here...</string>
+    <string name="submit">Submit</string>
+    <string name="feedback_success">Feedback submitted successfully. Thank you!</string>
+    <string name="error_empty_fields">Please fill all fields before submitting.</string>
+</resources>

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">NewsNow</string>
+    <string name="discover">काय घडतंय ते जाणून घ्या</string>
+    <string name="search_hint">लेख शोधा...</string>
+    
+    <!-- Categories -->
+    <string name="cat_general">सामान्य</string>
+    <string name="cat_business">व्यवसाय</string>
+    <string name="cat_entertainment">मनोरंजन</string>
+    <string name="cat_health">आरोग्य</string>
+    <string name="cat_science">विज्ञान</string>
+    <string name="cat_sports">क्रीडा</string>
+    <string name="cat_technology">तंत्रज्ञान</string>
+
+    <!-- Settings -->
+    <string name="settings">सेटिंग्ज</string>
+    <string name="appearance">स्वरूप</string>
+    <string name="dark_mode">डार्क मोड</string>
+    <string name="light_mode">लाइट मोड</string>
+    <string name="system_default">सिस्टम डीफॉल्ट</string>
+    
+    <string name="language">भाषा</string>
+    <string name="app_language">अ‍ॅपची भाषा</string>
+    
+    <string name="feed">फीड</string>
+    <string name="auto_refresh_label">ऑटो रिफ्रेश (15 सेकंद)</string>
+    
+    <string name="support">सपोर्ट</string>
+    <string name="help_center">मदत केंद्र</string>
+    <string name="contact_us">संपर्क करा</string>
+    <string name="feedback">फीडबॅक पाठवा</string>
+    
+    <string name="made_in_india">भारतात निर्मित 🇮🇳</string>
+    <string name="feature_coming_soon">हे वैशिष्ट्य लवकरच येत आहे!</string>
+
+    <!-- Exit Dialog -->
+    <string name="exit_title">Exit NewsNow?</string>
+    <string name="exit_message">तुम्हाला खरोखर अ‍ॅप बंद करायचे आहे का?</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="exit">बाहेर पडा</string>
+
+    <!-- Permissions -->
+    <string name="notif_permission_msg">ताज्या बातम्यांसाठी कृपया नोटिफिकेशनची परवानगी द्या.</string>
+
+    <!-- Help & Support Additions -->
+    <string name="how_to_use">NewsNow कसे वापरावे</string>
+    <string name="how_to_desc">1. होम स्क्रीनवर ताज्या बातम्या पहा\n2. विषय फिल्टर करण्यासाठी श्रेणींचा वापर करा\n3. संपूर्ण माहिती वाचण्यासाठी कोणत्याही लेखावर क्लिक करा\n4. थीम आणि भाषा बदलण्यासाठी सेटिंग्ज वापरा</string>
+    <string name="privacy_policy">गोपनीयता धोरણ (Privacy Policy)</string>
+    <string name="privacy_desc">आम्ही तुमच्या गोपनीयतेचा आदर करतो. तुमचे शोध आणि सेटिंग्ज तुमच्या फोनवरच जतन केल्या जातात. आम्ही तुमचा डेटा कोणालाही विकत नाही.</string>
+    
+    <string name="company_name">News Tech</string>
+    <string name="company_desc">वापरकर्त्यांना जलद आणि स्वच्छ बातम्यांचा अनुभव प्रदान करणे.</string>
+    <string name="web_link">www.newstech.in</string>
+    <string name="email_link">support@newstech.in</string>
+    
+    <string name="subject">विषय</string>
+    <string name="feedback_hint">तुमची प्रतिक्रिया येथे लिहा...</string>
+    <string name="submit">सबमिट करा</string>
+    <string name="feedback_success">प्रतिक्रिया यशस्वीरित्या सबमिट झाली. धन्यवाद!</string>
+    <string name="error_empty_fields">कृपया सबमिट करण्यापूर्वी सर्व माहिती भरा.</string>
+</resources>

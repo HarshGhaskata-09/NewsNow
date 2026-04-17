@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Middle fold (Shadowed, underneath) -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M36,36 L56,32 L76,74 L56,82 Z" />
+
+    <!-- Left Leg (Bright, overlapping middle) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,82 L36,36 L56,32 L42,70 Z" />
+
+    <!-- Right Leg (Bright, overlapping middle) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,82 L76,74 L86,22 L72,36 Z" />
+</vector>
