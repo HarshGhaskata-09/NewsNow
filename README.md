@@ -20,10 +20,11 @@ Most news apps are cluttered with ads and generic content. I built NewsNow to pr
 
 ### Screenshots
 
-| | | |
+| Splash Screen | Home Screen | Settings Screen |
 |:---:|:---:|:---:|
-| ![Splash](screenshots/splash.jpeg) | ![Home](screenshots/home.jpeg) | ![Settings](screenshots/settings.jpeg) |
-| ![Language Support](screenshots/language.jpeg) | ![Help Center](screenshots/help.jpeg) | ![Search](screenshots/search.jpeg) |
+| <img src="screenshots/splash.jpeg" width="200" /> | <img src="screenshots/home.jpeg" width="200" /> | <img src="screenshots/settings.jpeg" width="200" /> |
+| **Language Support** | **Help Center** | **Search Screen** |
+| <img src="screenshots/language.jpeg" width="200" /> | <img src="screenshots/help.jpeg" width="200" /> | <img src="screenshots/search.jpeg" width="200" /> |
 
 ---
 
