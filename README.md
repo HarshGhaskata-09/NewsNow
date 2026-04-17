@@ -22,8 +22,8 @@ Most news apps are cluttered with ads and generic content. I built NewsNow to pr
 
 | | | |
 |:---:|:---:|:---:|
-| ![Splash](screenshots/splash.png) | ![Home](screenshots/home.png) | ![Settings](screenshots/settings.png) |
-| ![Language Support](screenshots/language.png) | ![Help Center](screenshots/help.png) | ![Search](screenshots/search.png) |
+| ![Splash](screenshots/splash.jpeg) | ![Home](screenshots/home.jpeg) | ![Settings](screenshots/settings.jpeg) |
+| ![Language Support](screenshots/language.jpeg) | ![Help Center](screenshots/help.jpeg) | ![Search](screenshots/search.jpeg) |
 
 ---
 
